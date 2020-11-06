@@ -3,5 +3,5 @@ resolusi tahun 2020
 -bisa memahami dasar html,css,javascript
 -memahami framework bootstrap
 -menguasai github dan git
--belajar 1 jam sehari web development
 -ke bandung
+-bebas
