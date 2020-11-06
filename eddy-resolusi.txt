@@ -1,0 +1,5 @@
+resolusi tahun 2020
+-rajin 1 jam belajar web development
+-bisa memahami dasar html,css,javascript
+-memahami framework bootstrap
+-menguasai github dan git
